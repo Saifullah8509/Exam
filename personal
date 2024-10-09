@@ -382,7 +382,7 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="DATA",DUBAI SPORTS
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks?expires=1728666026&md5=sj3GZj5VAdrKCdR_6pejmA&user=50b58d6089cd4d24a9db3c1244f3001e.m3u8
 
 #EXTINF:-1 group-title="DATA",ASTRO CRICKET
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1728582637&md5=TU4leugq1E8zucoNuE71Hw&user=c15be118d93a464dabf77260596012cf.m3u8
