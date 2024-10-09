@@ -1,16 +1,16 @@
 
 #EXTM3U
 #EXTINF:-1 group-title="DATA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzqxKuYYdGM78-SPkI7m8MMryGaDvFwkWBQ&s.png",ISLAM TV
-https://adda.aneplaymax.online/wp-teme/zes-u/stream.m3u8?id=134&e=.m3u8
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="DATA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzqxKuYYdGM78-SPkI7m8MMryGaDvFwkWBQ&s.png",ISLAM TV
-https://adda.aneplaymax.online/wp-teme/zes-u/stream.m3u8?id=133&e=.m3u8
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",Millennium TV USA
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="DATA" tvg-logo="ttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVzAAzlWCnDtIRgIGDHXgjBObQ6PEL1jiXXQ&s.png",B TV
-https://adda.aneplaymax.online/wp-teme/zes-u/stream.m3u8?id=2&e=.m3u8
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8 
 #EXTINF:-1 group-title="DATA" tvg-logo="https://i.ibb.co/8xt0g0X/20240828-195507.png",Millennium TV 24
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/playlist.m3u8
 
@@ -210,17 +210,10 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 
 #EXTINF:-1 group-title="DATA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_C38p5C2jxgo_t-xSb2pwDpmvJS-l1w2gA&s",RPLUS Bangla
-https://thelegitpro.in/pntv/rplusnews24x7/tracks-a1/index.fmp4.m3u8
-https://thelegitpro.in/pntv/rplusnews24x7/tracks-a1/seg-0-59073.hls.fmp4
+https://thelegitpro.in/pntv/rplusnews24x7/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="DATA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_C38p5C2jxgo_t-xSb2pwDpmvJS-l1w2gA&s",News Time Bangla
-https://livegeoroueu.akamaized.net/290723/smil:newstime1.smil/chunklist_b696000.m3u8?hdntl=exp=1728527047~acl=!*/290723/smil:newstime1.smil/*!yuppTVCom_61_-1_a7148db84c3b404b_BD_103.58.75.120/payload/yuppTVCom_61_-1_a7148db84c3b404b_BD_103.58.75.120/*~data=hdntl~hmac=2393c88ee328d6c0052037269d0ac1c2df283ab326be224c2e2405e1bbc82413&hdnts=st=1728440644~exp=1728444244~acl=!*/290723/smil:newstime1.smil/*!yuppTVCom_61_-1_a7148db84c3b404b_BD_103.58.75.120/payload/yuppTVCom_61_-1_a7148db84c3b404b_BD_103.58.75.120/*~hmac=64ed7e6f2ae04027d67b0c83b35d4a80855f353c8c6cb6d390b2b42244fcdc88&amp;ads.app_bundle=&amp;ads.app_store_url=&amp;ads.content_livestream=1&amp;ads.language=BEN&amp;ads.content_genre=NEWS&amp;ads.channel=237&amp;ads.channel_name=NewsTime&amp;ads.network_name=yupptv&amp;ads.user=0
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_C38p5C2jxgo_t-xSb2pwDpmvJS-l1w2gA&s",Kolkata TV
-https://adda.aneplaymax.online/wp-teme/zes-u/stream.m3u8?id=210&e=.m3u8
-
-#EXTINF:-1 group-title="DATA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_C38p5C2jxgo_t-xSb2pwDpmvJS-l1w2gA&s",Rplus Gold
-https://thelegitpro.in/pntv/rplusnews24x7/preview.mp4.m3u8
+hdntl=exp=1728563167~acl=!*/290723/smil:newstime1.smil/*!yuppTVCom_5_-1_cf064f92c43b427a_BD_103.58.75.123/payload/yuppTVCom_5_-1_cf064f92c43b427a_BD_103.58.75.123/*~data=hdntl~hmac=7a6390ccc02b04acfcbec2ac88e0fbed3b46c62f77942120059614f14e430938 
 
 #EXTINF:-1 group-title="DATA" tvg-logo="",ZEE 24 GHANTA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
@@ -382,9 +375,8 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="DATA",DUBAI SPORTS
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks?expires=1728666026&md5=sj3GZj5VAdrKCdR_6pejmA&user=50b58d6089cd4d24a9db3c1244f3001e.m3u8
+https://stream.imotv.online/sports/m3u8.php/starhindi.m3u8
 
-#EXTINF:-1 group-title="DATA",ASTRO CRICKET
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1728582637&md5=TU4leugq1E8zucoNuE71Hw&user=c15be118d93a464dabf77260596012cf.m3u8
+
 
 
